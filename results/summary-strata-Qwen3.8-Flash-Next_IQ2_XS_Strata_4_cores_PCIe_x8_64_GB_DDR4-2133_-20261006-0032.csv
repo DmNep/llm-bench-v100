@@ -1,0 +1,5 @@
+﻿"model","family","params","quant","ctx","vram_gb","size_gb","target_tokens","prompt_tokens","prefill_tps","gen_tps","draft_accept_pct","runs_ok","runs"
+"Qwen3.8-Flash-Next IQ2_XS (Strata, 4 cores, PCIe x8, 64 GB DDR4-2133)","Strata","125B","IQ2_XS","32768","31",,"1024","1093","595.4","70.7","57","3","3"
+"Qwen3.8-Flash-Next IQ2_XS (Strata, 4 cores, PCIe x8, 64 GB DDR4-2133)","Strata","125B","IQ2_XS","32768","31",,"4096","4214","1161.5","72.3","57","3","3"
+"Qwen3.8-Flash-Next IQ2_XS (Strata, 4 cores, PCIe x8, 64 GB DDR4-2133)","Strata","125B","IQ2_XS","32768","31",,"16384","16701","1492.9","71.6","59","3","3"
+"Qwen3.8-Flash-Next IQ2_XS (Strata, 4 cores, PCIe x8, 64 GB DDR4-2133)","Strata","125B","IQ2_XS","32768","31",,"24576","25025","1569.8","72.7","61","3","3"
