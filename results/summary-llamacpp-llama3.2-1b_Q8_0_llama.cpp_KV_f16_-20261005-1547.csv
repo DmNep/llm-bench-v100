@@ -1,0 +1,5 @@
+﻿"model","family","params","quant","ctx","vram_gb","size_gb","target_tokens","prompt_tokens","prefill_tps","gen_tps","runs_ok","runs"
+"llama3.2-1b Q8_0 (llama.cpp, KV f16)","llama.cpp","1.2B","Q8_0","32768",,,"1024","1087","16790.8","303.2","3","3"
+"llama3.2-1b Q8_0 (llama.cpp, KV f16)","llama.cpp","1.2B","Q8_0","32768",,,"4096","4239","16447.1","292.5","3","3"
+"llama3.2-1b Q8_0 (llama.cpp, KV f16)","llama.cpp","1.2B","Q8_0","32768",,,"16384","16846","11496.8","245.2","3","3"
+"llama3.2-1b Q8_0 (llama.cpp, KV f16)","llama.cpp","1.2B","Q8_0","32768",,,"24576","25250","9410.6","225.8","3","3"

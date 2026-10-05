@@ -1,0 +1,122 @@
+﻿[
+    {
+        "label":  "qwen3-coder-30b-a3b Q8_0 (llama.cpp, KV f16, 8 expert layers on CPU)",
+        "target_tokens":  1024,
+        "rep":  1,
+        "prompt_tokens":  1090,
+        "prefill_tps":  363.3,
+        "gen_tokens":  128,
+        "gen_tps":  35.4,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-coder-30b-a3b Q8_0 (llama.cpp, KV f16, 8 expert layers on CPU)",
+        "target_tokens":  1024,
+        "rep":  2,
+        "prompt_tokens":  1090,
+        "prefill_tps":  414.5,
+        "gen_tokens":  128,
+        "gen_tps":  35.7,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-coder-30b-a3b Q8_0 (llama.cpp, KV f16, 8 expert layers on CPU)",
+        "target_tokens":  1024,
+        "rep":  3,
+        "prompt_tokens":  1089,
+        "prefill_tps":  419.2,
+        "gen_tokens":  128,
+        "gen_tps":  36.5,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-coder-30b-a3b Q8_0 (llama.cpp, KV f16, 8 expert layers on CPU)",
+        "target_tokens":  4096,
+        "rep":  1,
+        "prompt_tokens":  4247,
+        "prefill_tps":  521.3,
+        "gen_tokens":  128,
+        "gen_tps":  34.9,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-coder-30b-a3b Q8_0 (llama.cpp, KV f16, 8 expert layers on CPU)",
+        "target_tokens":  4096,
+        "rep":  2,
+        "prompt_tokens":  4246,
+        "prefill_tps":  528.5,
+        "gen_tokens":  128,
+        "gen_tps":  36.4,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-coder-30b-a3b Q8_0 (llama.cpp, KV f16, 8 expert layers on CPU)",
+        "target_tokens":  4096,
+        "rep":  3,
+        "prompt_tokens":  4247,
+        "prefill_tps":  524.5,
+        "gen_tokens":  128,
+        "gen_tps":  36.7,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-coder-30b-a3b Q8_0 (llama.cpp, KV f16, 8 expert layers on CPU)",
+        "target_tokens":  16384,
+        "rep":  1,
+        "prompt_tokens":  16866,
+        "prefill_tps":  524.3,
+        "gen_tokens":  128,
+        "gen_tps":  34,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-coder-30b-a3b Q8_0 (llama.cpp, KV f16, 8 expert layers on CPU)",
+        "target_tokens":  16384,
+        "rep":  2,
+        "prompt_tokens":  16865,
+        "prefill_tps":  523.3,
+        "gen_tokens":  128,
+        "gen_tps":  34,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-coder-30b-a3b Q8_0 (llama.cpp, KV f16, 8 expert layers on CPU)",
+        "target_tokens":  16384,
+        "rep":  3,
+        "prompt_tokens":  16865,
+        "prefill_tps":  524.8,
+        "gen_tokens":  128,
+        "gen_tps":  34.4,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-coder-30b-a3b Q8_0 (llama.cpp, KV f16, 8 expert layers on CPU)",
+        "target_tokens":  24576,
+        "rep":  1,
+        "prompt_tokens":  25277,
+        "prefill_tps":  495.9,
+        "gen_tokens":  128,
+        "gen_tps":  32.8,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-coder-30b-a3b Q8_0 (llama.cpp, KV f16, 8 expert layers on CPU)",
+        "target_tokens":  24576,
+        "rep":  2,
+        "prompt_tokens":  25280,
+        "prefill_tps":  502.2,
+        "gen_tokens":  128,
+        "gen_tps":  33,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-coder-30b-a3b Q8_0 (llama.cpp, KV f16, 8 expert layers on CPU)",
+        "target_tokens":  24576,
+        "rep":  3,
+        "prompt_tokens":  25278,
+        "prefill_tps":  502.5,
+        "gen_tokens":  128,
+        "gen_tps":  32.9,
+        "status":  "ok"
+    }
+]

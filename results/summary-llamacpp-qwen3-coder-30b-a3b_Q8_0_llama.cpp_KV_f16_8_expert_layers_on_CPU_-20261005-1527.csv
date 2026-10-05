@@ -1,0 +1,5 @@
+﻿"model","family","params","quant","ctx","vram_gb","size_gb","target_tokens","prompt_tokens","prefill_tps","gen_tps","runs_ok","runs"
+"qwen3-coder-30b-a3b Q8_0 (llama.cpp, KV f16, 8 expert layers on CPU)","llama.cpp","30.5B","Q8_0","32768",,,"1024","1090","414.5","35.7","3","3"
+"qwen3-coder-30b-a3b Q8_0 (llama.cpp, KV f16, 8 expert layers on CPU)","llama.cpp","30.5B","Q8_0","32768",,,"4096","4247","524.5","36.4","3","3"
+"qwen3-coder-30b-a3b Q8_0 (llama.cpp, KV f16, 8 expert layers on CPU)","llama.cpp","30.5B","Q8_0","32768",,,"16384","16865","524.3","34","3","3"
+"qwen3-coder-30b-a3b Q8_0 (llama.cpp, KV f16, 8 expert layers on CPU)","llama.cpp","30.5B","Q8_0","32768",,,"24576","25278","502.2","32.9","3","3"

@@ -1,0 +1,212 @@
+﻿[
+    {
+        "label":  "qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)",
+        "target_tokens":  1024,
+        "rep":  1,
+        "prompt_tokens":  1091,
+        "prefill_tps":  1158.8,
+        "gen_tokens":  128,
+        "gen_tps":  110.4,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)",
+        "target_tokens":  1024,
+        "rep":  2,
+        "prompt_tokens":  1090,
+        "prefill_tps":  1183,
+        "gen_tokens":  128,
+        "gen_tps":  110.5,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)",
+        "target_tokens":  1024,
+        "rep":  3,
+        "prompt_tokens":  1092,
+        "prefill_tps":  1177.2,
+        "gen_tokens":  128,
+        "gen_tps":  109.9,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)",
+        "target_tokens":  4096,
+        "rep":  1,
+        "prompt_tokens":  4247,
+        "prefill_tps":  1309.2,
+        "gen_tokens":  128,
+        "gen_tps":  99,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)",
+        "target_tokens":  4096,
+        "rep":  2,
+        "prompt_tokens":  4247,
+        "prefill_tps":  1313.4,
+        "gen_tokens":  128,
+        "gen_tps":  99.1,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)",
+        "target_tokens":  4096,
+        "rep":  3,
+        "prompt_tokens":  4245,
+        "prefill_tps":  1308.4,
+        "gen_tokens":  128,
+        "gen_tps":  99,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)",
+        "target_tokens":  16384,
+        "rep":  1,
+        "prompt_tokens":  16866,
+        "prefill_tps":  1162.8,
+        "gen_tokens":  128,
+        "gen_tps":  69.4,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)",
+        "target_tokens":  16384,
+        "rep":  2,
+        "prompt_tokens":  16865,
+        "prefill_tps":  1157.9,
+        "gen_tokens":  128,
+        "gen_tps":  69.8,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)",
+        "target_tokens":  16384,
+        "rep":  3,
+        "prompt_tokens":  16865,
+        "prefill_tps":  1165.7,
+        "gen_tokens":  128,
+        "gen_tps":  70,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)",
+        "target_tokens":  24576,
+        "rep":  1,
+        "prompt_tokens":  25280,
+        "prefill_tps":  1057,
+        "gen_tokens":  128,
+        "gen_tps":  58.9,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)",
+        "target_tokens":  24576,
+        "rep":  2,
+        "prompt_tokens":  25279,
+        "prefill_tps":  1055.8,
+        "gen_tokens":  128,
+        "gen_tps":  59,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)",
+        "target_tokens":  24576,
+        "rep":  3,
+        "prompt_tokens":  25279,
+        "prefill_tps":  1056,
+        "gen_tokens":  128,
+        "gen_tps":  59.1,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)",
+        "target_tokens":  32768,
+        "rep":  1,
+        "prompt_tokens":  33692,
+        "prefill_tps":  973.6,
+        "gen_tokens":  128,
+        "gen_tps":  50.3,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)",
+        "target_tokens":  32768,
+        "rep":  2,
+        "prompt_tokens":  33693,
+        "prefill_tps":  971.8,
+        "gen_tokens":  128,
+        "gen_tps":  50.7,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)",
+        "target_tokens":  32768,
+        "rep":  3,
+        "prompt_tokens":  33694,
+        "prefill_tps":  971.5,
+        "gen_tokens":  128,
+        "gen_tps":  50.7,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)",
+        "target_tokens":  65536,
+        "rep":  1,
+        "prompt_tokens":  67342,
+        "prefill_tps":  728.7,
+        "gen_tokens":  128,
+        "gen_tps":  32.5,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)",
+        "target_tokens":  65536,
+        "rep":  2,
+        "prompt_tokens":  67344,
+        "prefill_tps":  729,
+        "gen_tokens":  128,
+        "gen_tps":  32.6,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)",
+        "target_tokens":  65536,
+        "rep":  3,
+        "prompt_tokens":  67343,
+        "prefill_tps":  730.3,
+        "gen_tokens":  128,
+        "gen_tps":  32.7,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)",
+        "target_tokens":  114688,
+        "rep":  1,
+        "prompt_tokens":  117823,
+        "prefill_tps":  528.9,
+        "gen_tokens":  128,
+        "gen_tps":  21.5,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)",
+        "target_tokens":  114688,
+        "rep":  2,
+        "prompt_tokens":  117823,
+        "prefill_tps":  529.3,
+        "gen_tokens":  128,
+        "gen_tps":  21.5,
+        "status":  "ok"
+    },
+    {
+        "label":  "qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)",
+        "target_tokens":  114688,
+        "rep":  3,
+        "prompt_tokens":  117823,
+        "prefill_tps":  529.7,
+        "gen_tokens":  128,
+        "gen_tps":  21.5,
+        "status":  "ok"
+    }
+]

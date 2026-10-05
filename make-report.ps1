@@ -16,7 +16,7 @@ $Out = $ExecutionContext.SessionState.Path.GetUnresolvedProviderPathFromPSPath($
 $ci = [System.Globalization.CultureInfo]::GetCultureInfo($Culture)
 $inv = [System.Globalization.CultureInfo]::InvariantCulture
 function Num($s) { if ([string]::IsNullOrWhiteSpace($s)) { return $null }; return [double]::Parse($s, $ci) }
-function F([double]$v, [string]$fmt = "N0") { if ($null -eq $v) { return "n/a" }; return $v.ToString($fmt, $inv) }
+function F($v, [string]$fmt = "N0") { if ($null -eq $v) { return "n/a" }; return $v.ToString($fmt, $inv) }
 
 $rows = Import-Csv -Path $Csv -Encoding UTF8 | ForEach-Object {
   [pscustomobject]@{
@@ -26,9 +26,10 @@ $rows = Import-Csv -Path $Csv -Encoding UTF8 | ForEach-Object {
   }
 }
 $models = $rows | Select-Object -ExpandProperty model -Unique
-$buckets = @(1000, 4000, 16000, 25000, 33000, 67000)
-function Bucket([int]$tok) { foreach ($b in $buckets) { if ($tok -le $b * 1.1) { return $b } }; return $buckets[-1] }
-$labels = @{ 1000 = "1K"; 4000 = "4K"; 16000 = "16K"; 25000 = "25K"; 33000 = "33K"; 67000 = "67K" }
+$allBuckets = @(1000, 4000, 16000, 25000, 33000, 67000, 115000)
+function Bucket([int]$tok) { foreach ($b in $allBuckets) { if ($tok -le $b * 1.1) { return $b } }; return $allBuckets[-1] }
+$buckets = @($allBuckets | Where-Object { $b = $_; $rows | Where-Object { (Bucket $_.prompt) -eq $b } })
+$labels = @{ 1000 = "1K"; 4000 = "4K"; 16000 = "16K"; 25000 = "25K"; 33000 = "33K"; 67000 = "67K"; 115000 = "115K" }
 
 $sb = New-Object System.Text.StringBuilder
 if ($Header) { [void]$sb.AppendLine($Header); [void]$sb.AppendLine("") }
@@ -49,7 +50,7 @@ foreach ($kind in @(@("gen", "Generation speed, tokens/s (prompt of the given si
   }
   [void]$sb.AppendLine("")
 }
-[void]$sb.AppendLine("### Memory reported by Ollama after the runs")
+[void]$sb.AppendLine("### Memory reported by the engine after the runs (Ollama; for llama.cpp the value is given by hand from nvidia-smi, if any)")
 [void]$sb.AppendLine("")
 [void]$sb.AppendLine("| Model | Reported VRAM, GB | Reported total, GB |")
 [void]$sb.AppendLine("|---|---:|---:|")

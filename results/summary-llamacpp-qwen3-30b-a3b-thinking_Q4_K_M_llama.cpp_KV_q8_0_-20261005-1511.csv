@@ -1,0 +1,8 @@
+﻿"model","family","params","quant","ctx","vram_gb","size_gb","target_tokens","prompt_tokens","prefill_tps","gen_tps","runs_ok","runs"
+"qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)","llama.cpp","30.5B","Q4_K_M","131072","24.9",,"1024","1091","1177.2","110.4","3","3"
+"qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)","llama.cpp","30.5B","Q4_K_M","131072","24.9",,"4096","4247","1309.2","99","3","3"
+"qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)","llama.cpp","30.5B","Q4_K_M","131072","24.9",,"16384","16865","1162.8","69.8","3","3"
+"qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)","llama.cpp","30.5B","Q4_K_M","131072","24.9",,"24576","25279","1056","59","3","3"
+"qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)","llama.cpp","30.5B","Q4_K_M","131072","24.9",,"32768","33693","971.8","50.7","3","3"
+"qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)","llama.cpp","30.5B","Q4_K_M","131072","24.9",,"65536","67343","729","32.6","3","3"
+"qwen3-30b-a3b-thinking Q4_K_M (llama.cpp, KV q8_0)","llama.cpp","30.5B","Q4_K_M","131072","24.9",,"114688","117823","529.3","21.5","3","3"

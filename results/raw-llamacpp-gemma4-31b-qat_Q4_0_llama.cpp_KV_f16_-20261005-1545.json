@@ -1,0 +1,122 @@
+﻿[
+    {
+        "label":  "gemma4-31b-qat Q4_0 (llama.cpp, KV f16)",
+        "target_tokens":  1024,
+        "rep":  1,
+        "prompt_tokens":  1093,
+        "prefill_tps":  481.2,
+        "gen_tokens":  128,
+        "gen_tps":  33.3,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b-qat Q4_0 (llama.cpp, KV f16)",
+        "target_tokens":  1024,
+        "rep":  2,
+        "prompt_tokens":  1093,
+        "prefill_tps":  484,
+        "gen_tokens":  128,
+        "gen_tps":  33.4,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b-qat Q4_0 (llama.cpp, KV f16)",
+        "target_tokens":  1024,
+        "rep":  3,
+        "prompt_tokens":  1092,
+        "prefill_tps":  496.4,
+        "gen_tokens":  128,
+        "gen_tps":  33.4,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b-qat Q4_0 (llama.cpp, KV f16)",
+        "target_tokens":  4096,
+        "rep":  1,
+        "prompt_tokens":  4246,
+        "prefill_tps":  600.8,
+        "gen_tokens":  128,
+        "gen_tps":  32.5,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b-qat Q4_0 (llama.cpp, KV f16)",
+        "target_tokens":  4096,
+        "rep":  2,
+        "prompt_tokens":  4246,
+        "prefill_tps":  599.5,
+        "gen_tokens":  128,
+        "gen_tps":  32.5,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b-qat Q4_0 (llama.cpp, KV f16)",
+        "target_tokens":  4096,
+        "rep":  3,
+        "prompt_tokens":  4244,
+        "prefill_tps":  599.3,
+        "gen_tokens":  128,
+        "gen_tps":  32.5,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b-qat Q4_0 (llama.cpp, KV f16)",
+        "target_tokens":  16384,
+        "rep":  1,
+        "prompt_tokens":  16850,
+        "prefill_tps":  574.4,
+        "gen_tokens":  128,
+        "gen_tps":  31.1,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b-qat Q4_0 (llama.cpp, KV f16)",
+        "target_tokens":  16384,
+        "rep":  2,
+        "prompt_tokens":  16853,
+        "prefill_tps":  573.6,
+        "gen_tokens":  128,
+        "gen_tps":  31.1,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b-qat Q4_0 (llama.cpp, KV f16)",
+        "target_tokens":  16384,
+        "rep":  3,
+        "prompt_tokens":  16852,
+        "prefill_tps":  574,
+        "gen_tokens":  128,
+        "gen_tps":  31.1,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b-qat Q4_0 (llama.cpp, KV f16)",
+        "target_tokens":  24576,
+        "rep":  1,
+        "prompt_tokens":  25258,
+        "prefill_tps":  527.2,
+        "gen_tokens":  128,
+        "gen_tps":  30.3,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b-qat Q4_0 (llama.cpp, KV f16)",
+        "target_tokens":  24576,
+        "rep":  2,
+        "prompt_tokens":  25258,
+        "prefill_tps":  526.7,
+        "gen_tokens":  128,
+        "gen_tps":  30.3,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b-qat Q4_0 (llama.cpp, KV f16)",
+        "target_tokens":  24576,
+        "rep":  3,
+        "prompt_tokens":  25258,
+        "prefill_tps":  526.7,
+        "gen_tokens":  128,
+        "gen_tps":  30.3,
+        "status":  "ok"
+    }
+]

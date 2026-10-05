@@ -1,0 +1,122 @@
+﻿[
+    {
+        "label":  "llama3.2-1b Q8_0 (llama.cpp, KV f16)",
+        "target_tokens":  1024,
+        "rep":  1,
+        "prompt_tokens":  1086,
+        "prefill_tps":  15243,
+        "gen_tokens":  128,
+        "gen_tps":  303.2,
+        "status":  "ok"
+    },
+    {
+        "label":  "llama3.2-1b Q8_0 (llama.cpp, KV f16)",
+        "target_tokens":  1024,
+        "rep":  2,
+        "prompt_tokens":  1087,
+        "prefill_tps":  16817.3,
+        "gen_tokens":  128,
+        "gen_tps":  302.7,
+        "status":  "ok"
+    },
+    {
+        "label":  "llama3.2-1b Q8_0 (llama.cpp, KV f16)",
+        "target_tokens":  1024,
+        "rep":  3,
+        "prompt_tokens":  1087,
+        "prefill_tps":  16790.8,
+        "gen_tokens":  128,
+        "gen_tps":  304.4,
+        "status":  "ok"
+    },
+    {
+        "label":  "llama3.2-1b Q8_0 (llama.cpp, KV f16)",
+        "target_tokens":  4096,
+        "rep":  1,
+        "prompt_tokens":  4239,
+        "prefill_tps":  16334.6,
+        "gen_tokens":  128,
+        "gen_tps":  297,
+        "status":  "ok"
+    },
+    {
+        "label":  "llama3.2-1b Q8_0 (llama.cpp, KV f16)",
+        "target_tokens":  4096,
+        "rep":  2,
+        "prompt_tokens":  4239,
+        "prefill_tps":  16447.1,
+        "gen_tokens":  128,
+        "gen_tps":  288.5,
+        "status":  "ok"
+    },
+    {
+        "label":  "llama3.2-1b Q8_0 (llama.cpp, KV f16)",
+        "target_tokens":  4096,
+        "rep":  3,
+        "prompt_tokens":  4237,
+        "prefill_tps":  16477.9,
+        "gen_tokens":  128,
+        "gen_tps":  292.5,
+        "status":  "ok"
+    },
+    {
+        "label":  "llama3.2-1b Q8_0 (llama.cpp, KV f16)",
+        "target_tokens":  16384,
+        "rep":  1,
+        "prompt_tokens":  16846,
+        "prefill_tps":  11513.3,
+        "gen_tokens":  128,
+        "gen_tps":  244,
+        "status":  "ok"
+    },
+    {
+        "label":  "llama3.2-1b Q8_0 (llama.cpp, KV f16)",
+        "target_tokens":  16384,
+        "rep":  2,
+        "prompt_tokens":  16845,
+        "prefill_tps":  11496.8,
+        "gen_tokens":  128,
+        "gen_tps":  246.3,
+        "status":  "ok"
+    },
+    {
+        "label":  "llama3.2-1b Q8_0 (llama.cpp, KV f16)",
+        "target_tokens":  16384,
+        "rep":  3,
+        "prompt_tokens":  16846,
+        "prefill_tps":  11494.7,
+        "gen_tokens":  128,
+        "gen_tps":  245.2,
+        "status":  "ok"
+    },
+    {
+        "label":  "llama3.2-1b Q8_0 (llama.cpp, KV f16)",
+        "target_tokens":  24576,
+        "rep":  1,
+        "prompt_tokens":  25250,
+        "prefill_tps":  9410.6,
+        "gen_tokens":  128,
+        "gen_tps":  225.5,
+        "status":  "ok"
+    },
+    {
+        "label":  "llama3.2-1b Q8_0 (llama.cpp, KV f16)",
+        "target_tokens":  24576,
+        "rep":  2,
+        "prompt_tokens":  25251,
+        "prefill_tps":  9410.9,
+        "gen_tokens":  128,
+        "gen_tps":  225.8,
+        "status":  "ok"
+    },
+    {
+        "label":  "llama3.2-1b Q8_0 (llama.cpp, KV f16)",
+        "target_tokens":  24576,
+        "rep":  3,
+        "prompt_tokens":  25249,
+        "prefill_tps":  9408.6,
+        "gen_tokens":  128,
+        "gen_tps":  226.3,
+        "status":  "ok"
+    }
+]

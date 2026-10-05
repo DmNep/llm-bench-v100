@@ -1,0 +1,152 @@
+﻿[
+    {
+        "label":  "gemma4-31b Q4_K_M (llama.cpp, KV f16)",
+        "target_tokens":  1024,
+        "rep":  1,
+        "prompt_tokens":  1094,
+        "prefill_tps":  483.1,
+        "gen_tokens":  128,
+        "gen_tps":  29.8,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b Q4_K_M (llama.cpp, KV f16)",
+        "target_tokens":  1024,
+        "rep":  2,
+        "prompt_tokens":  1092,
+        "prefill_tps":  496.7,
+        "gen_tokens":  128,
+        "gen_tps":  29.9,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b Q4_K_M (llama.cpp, KV f16)",
+        "target_tokens":  1024,
+        "rep":  3,
+        "prompt_tokens":  1089,
+        "prefill_tps":  531.6,
+        "gen_tokens":  128,
+        "gen_tps":  29.9,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b Q4_K_M (llama.cpp, KV f16)",
+        "target_tokens":  4096,
+        "rep":  1,
+        "prompt_tokens":  4245,
+        "prefill_tps":  601.6,
+        "gen_tokens":  128,
+        "gen_tps":  29.2,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b Q4_K_M (llama.cpp, KV f16)",
+        "target_tokens":  4096,
+        "rep":  2,
+        "prompt_tokens":  4245,
+        "prefill_tps":  599.4,
+        "gen_tokens":  128,
+        "gen_tps":  29.2,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b Q4_K_M (llama.cpp, KV f16)",
+        "target_tokens":  4096,
+        "rep":  3,
+        "prompt_tokens":  4245,
+        "prefill_tps":  600,
+        "gen_tokens":  128,
+        "gen_tps":  29.2,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b Q4_K_M (llama.cpp, KV f16)",
+        "target_tokens":  16384,
+        "rep":  1,
+        "prompt_tokens":  16852,
+        "prefill_tps":  576.1,
+        "gen_tokens":  128,
+        "gen_tps":  28.1,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b Q4_K_M (llama.cpp, KV f16)",
+        "target_tokens":  16384,
+        "rep":  2,
+        "prompt_tokens":  16850,
+        "prefill_tps":  575.6,
+        "gen_tokens":  128,
+        "gen_tps":  28.1,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b Q4_K_M (llama.cpp, KV f16)",
+        "target_tokens":  16384,
+        "rep":  3,
+        "prompt_tokens":  16852,
+        "prefill_tps":  575.3,
+        "gen_tokens":  128,
+        "gen_tps":  28.1,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b Q4_K_M (llama.cpp, KV f16)",
+        "target_tokens":  24576,
+        "rep":  1,
+        "prompt_tokens":  25256,
+        "prefill_tps":  528.7,
+        "gen_tokens":  128,
+        "gen_tps":  27.5,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b Q4_K_M (llama.cpp, KV f16)",
+        "target_tokens":  24576,
+        "rep":  2,
+        "prompt_tokens":  25255,
+        "prefill_tps":  528.5,
+        "gen_tokens":  128,
+        "gen_tps":  27.5,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b Q4_K_M (llama.cpp, KV f16)",
+        "target_tokens":  24576,
+        "rep":  3,
+        "prompt_tokens":  25256,
+        "prefill_tps":  528.4,
+        "gen_tokens":  128,
+        "gen_tps":  27.4,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b Q4_K_M (llama.cpp, KV f16)",
+        "target_tokens":  32768,
+        "rep":  1,
+        "prompt_tokens":  33661,
+        "prefill_tps":  493.4,
+        "gen_tokens":  128,
+        "gen_tps":  26.8,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b Q4_K_M (llama.cpp, KV f16)",
+        "target_tokens":  32768,
+        "rep":  2,
+        "prompt_tokens":  33661,
+        "prefill_tps":  493.3,
+        "gen_tokens":  128,
+        "gen_tps":  26.7,
+        "status":  "ok"
+    },
+    {
+        "label":  "gemma4-31b Q4_K_M (llama.cpp, KV f16)",
+        "target_tokens":  32768,
+        "rep":  3,
+        "prompt_tokens":  33663,
+        "prefill_tps":  493.2,
+        "gen_tokens":  128,
+        "gen_tps":  26.7,
+        "status":  "ok"
+    }
+]
