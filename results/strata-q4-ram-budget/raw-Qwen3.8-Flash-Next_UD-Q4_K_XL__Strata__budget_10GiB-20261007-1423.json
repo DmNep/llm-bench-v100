@@ -1,0 +1,110 @@
+[
+ {
+  "prompt_tokens": 1093,
+  "prefill": 55.9,
+  "gen_n": 128,
+  "gen": 10.0,
+  "cache_n": 0,
+  "draft": 52,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) budget 10GiB",
+  "size": 1024,
+  "rep": 1,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 1094,
+  "prefill": 62.6,
+  "gen_n": 128,
+  "gen": 11.4,
+  "cache_n": 0,
+  "draft": 61,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) budget 10GiB",
+  "size": 1024,
+  "rep": 2,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 1095,
+  "prefill": 62.7,
+  "gen_n": 128,
+  "gen": 16.3,
+  "cache_n": 0,
+  "draft": 66,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) budget 10GiB",
+  "size": 1024,
+  "rep": 3,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 25026,
+  "prefill": 399.0,
+  "gen_n": 128,
+  "gen": 23.6,
+  "cache_n": 0,
+  "draft": 66,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) budget 10GiB",
+  "size": 24576,
+  "rep": 1,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 25023,
+  "prefill": 402.3,
+  "gen_n": 128,
+  "gen": 22.2,
+  "cache_n": 0,
+  "draft": 61,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) budget 10GiB",
+  "size": 24576,
+  "rep": 2,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 25024,
+  "prefill": 392.5,
+  "gen_n": 128,
+  "gen": 22.6,
+  "cache_n": 0,
+  "draft": 51,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) budget 10GiB",
+  "size": 24576,
+  "rep": 3,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 66645,
+  "prefill": 398.5,
+  "gen_n": 128,
+  "gen": 28.4,
+  "cache_n": 0,
+  "draft": 67,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) budget 10GiB",
+  "size": 65536,
+  "rep": 1,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 66645,
+  "prefill": 387.7,
+  "gen_n": 128,
+  "gen": 31.2,
+  "cache_n": 0,
+  "draft": 61,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) budget 10GiB",
+  "size": 65536,
+  "rep": 2,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 66647,
+  "prefill": 397.1,
+  "gen_n": 128,
+  "gen": 23.1,
+  "cache_n": 0,
+  "draft": 57,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) budget 10GiB",
+  "size": 65536,
+  "rep": 3,
+  "status": "ok"
+ }
+]

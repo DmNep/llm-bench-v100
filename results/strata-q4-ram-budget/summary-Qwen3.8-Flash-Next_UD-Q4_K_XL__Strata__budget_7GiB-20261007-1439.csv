@@ -1,0 +1,4 @@
+label,size,prompt_tokens,prefill_tps,gen_tps,draft_accept_pct,runs_ok,runs
+Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) budget 7GiB,1024,1094,53.0,13.1,67,3,3
+Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) budget 7GiB,24576,25025,365.0,21.2,59,3,3
+Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) budget 7GiB,65536,66647,377.8,27.1,67,3,3

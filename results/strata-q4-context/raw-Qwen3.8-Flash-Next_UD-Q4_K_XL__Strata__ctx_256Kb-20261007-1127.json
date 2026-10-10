@@ -1,0 +1,26 @@
+[
+ {
+  "prompt_tokens": 259169,
+  "prefill": 576.0,
+  "gen_n": 128,
+  "gen": 18.9,
+  "cache_n": 0,
+  "draft": 72,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 256Kb",
+  "size": 255000,
+  "rep": 1,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 259169,
+  "prefill": 595.8,
+  "gen_n": 128,
+  "gen": 24.6,
+  "cache_n": 0,
+  "draft": 55,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 256Kb",
+  "size": 255000,
+  "rep": 2,
+  "status": "ok"
+ }
+]

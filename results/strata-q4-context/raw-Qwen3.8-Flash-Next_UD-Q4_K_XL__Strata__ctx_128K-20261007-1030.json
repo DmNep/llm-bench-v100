@@ -1,0 +1,128 @@
+[
+ {
+  "prompt_tokens": 1091,
+  "prefill": 85.5,
+  "gen_n": 128,
+  "gen": 18.0,
+  "cache_n": 0,
+  "draft": 52,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 128K",
+  "size": 1024,
+  "rep": 1,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 1093,
+  "prefill": 87.0,
+  "gen_n": 128,
+  "gen": 27.7,
+  "cache_n": 0,
+  "draft": 62,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 128K",
+  "size": 1024,
+  "rep": 2,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 1092,
+  "prefill": 86.6,
+  "gen_n": 128,
+  "gen": 29.0,
+  "cache_n": 0,
+  "draft": 69,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 128K",
+  "size": 1024,
+  "rep": 3,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 25023,
+  "prefill": 539.5,
+  "gen_n": 128,
+  "gen": 32.0,
+  "cache_n": 0,
+  "draft": 62,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 128K",
+  "size": 24576,
+  "rep": 1,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 25025,
+  "prefill": 547.3,
+  "gen_n": 128,
+  "gen": 28.8,
+  "cache_n": 0,
+  "draft": 50,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 128K",
+  "size": 24576,
+  "rep": 2,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 25025,
+  "prefill": 549.5,
+  "gen_n": 128,
+  "gen": 33.8,
+  "cache_n": 0,
+  "draft": 69,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 128K",
+  "size": 24576,
+  "rep": 3,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 66646,
+  "prefill": 570.2,
+  "gen_n": 128,
+  "gen": 40.3,
+  "cache_n": 0,
+  "draft": 78,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 128K",
+  "size": 65536,
+  "rep": 1,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 66645,
+  "prefill": 558.0,
+  "gen_n": 128,
+  "gen": 37.4,
+  "cache_n": 0,
+  "draft": 60,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 128K",
+  "size": 65536,
+  "rep": 2,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 66647,
+  "prefill": 560.2,
+  "gen_n": 128,
+  "gen": 39.9,
+  "cache_n": 0,
+  "draft": 67,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 128K",
+  "size": 65536,
+  "rep": 3,
+  "status": "ok"
+ },
+ {
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 128K",
+  "size": 129000,
+  "rep": 1,
+  "status": "error: HTTP Error 400: Bad Request"
+ },
+ {
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 128K",
+  "size": 129000,
+  "rep": 2,
+  "status": "error: HTTP Error 400: Bad Request"
+ },
+ {
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 128K",
+  "size": 129000,
+  "rep": 3,
+  "status": "error: HTTP Error 400: Bad Request"
+ }
+]

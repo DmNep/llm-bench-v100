@@ -1,0 +1,110 @@
+[
+ {
+  "prompt_tokens": 1093,
+  "prefill": 89.7,
+  "gen_n": 128,
+  "gen": 19.6,
+  "cache_n": 0,
+  "draft": 65,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 48K",
+  "size": 1024,
+  "rep": 1,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 1093,
+  "prefill": 90.9,
+  "gen_n": 128,
+  "gen": 26.5,
+  "cache_n": 0,
+  "draft": 58,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 48K",
+  "size": 1024,
+  "rep": 2,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 1094,
+  "prefill": 90.8,
+  "gen_n": 128,
+  "gen": 25.5,
+  "cache_n": 0,
+  "draft": 67,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 48K",
+  "size": 1024,
+  "rep": 3,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 25023,
+  "prefill": 555.7,
+  "gen_n": 128,
+  "gen": 29.6,
+  "cache_n": 0,
+  "draft": 53,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 48K",
+  "size": 24576,
+  "rep": 1,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 25024,
+  "prefill": 558.9,
+  "gen_n": 128,
+  "gen": 34.0,
+  "cache_n": 0,
+  "draft": 63,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 48K",
+  "size": 24576,
+  "rep": 2,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 25025,
+  "prefill": 564.0,
+  "gen_n": 128,
+  "gen": 33.6,
+  "cache_n": 0,
+  "draft": 71,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 48K",
+  "size": 24576,
+  "rep": 3,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 47812,
+  "prefill": 620.2,
+  "gen_n": 128,
+  "gen": 32.0,
+  "cache_n": 0,
+  "draft": 60,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 48K",
+  "size": 47000,
+  "rep": 1,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 47813,
+  "prefill": 621.6,
+  "gen_n": 128,
+  "gen": 35.0,
+  "cache_n": 0,
+  "draft": 68,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 48K",
+  "size": 47000,
+  "rep": 2,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 47810,
+  "prefill": 623.1,
+  "gen_n": 128,
+  "gen": 31.7,
+  "cache_n": 0,
+  "draft": 58,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 48K",
+  "size": 47000,
+  "rep": 3,
+  "status": "ok"
+ }
+]

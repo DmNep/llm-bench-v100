@@ -1,0 +1,26 @@
+[
+ {
+  "prompt_tokens": 1092,
+  "prefill": 46.8,
+  "gen_n": 128,
+  "gen": 11.9,
+  "cache_n": 0,
+  "draft": 63,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 1M yarn x4",
+  "size": 1024,
+  "rep": 1,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 1016199,
+  "prefill": 338.8,
+  "gen_n": 128,
+  "gen": 16.9,
+  "cache_n": 0,
+  "draft": 53,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 1M yarn x4",
+  "size": 1000000,
+  "rep": 1,
+  "status": "ok"
+ }
+]

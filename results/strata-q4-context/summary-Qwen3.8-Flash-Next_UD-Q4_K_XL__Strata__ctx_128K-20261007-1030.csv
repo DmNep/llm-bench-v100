@@ -1,0 +1,5 @@
+label,size,prompt_tokens,prefill_tps,gen_tps,draft_accept_pct,runs_ok,runs
+Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 128K,1024,1092,86.6,27.7,62,3,3
+Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 128K,24576,25025,547.3,32.0,62,3,3
+Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 128K,65536,66646,560.2,39.9,67,3,3
+Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 128K,129000,,,,,0,3

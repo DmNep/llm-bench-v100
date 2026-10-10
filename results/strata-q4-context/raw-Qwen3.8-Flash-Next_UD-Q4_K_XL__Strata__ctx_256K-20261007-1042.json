@@ -1,0 +1,86 @@
+[
+ {
+  "prompt_tokens": 1094,
+  "prefill": 87.1,
+  "gen_n": 128,
+  "gen": 18.6,
+  "cache_n": 0,
+  "draft": 71,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 256K",
+  "size": 1024,
+  "rep": 1,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 1092,
+  "prefill": 86.9,
+  "gen_n": 128,
+  "gen": 22.9,
+  "cache_n": 0,
+  "draft": 53,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 256K",
+  "size": 1024,
+  "rep": 2,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 25026,
+  "prefill": 543.7,
+  "gen_n": 128,
+  "gen": 32.3,
+  "cache_n": 0,
+  "draft": 57,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 256K",
+  "size": 24576,
+  "rep": 1,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 25024,
+  "prefill": 526.3,
+  "gen_n": 128,
+  "gen": 37.3,
+  "cache_n": 0,
+  "draft": 65,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 256K",
+  "size": 24576,
+  "rep": 2,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 133242,
+  "prefill": 589.8,
+  "gen_n": 128,
+  "gen": 35.6,
+  "cache_n": 0,
+  "draft": 65,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 256K",
+  "size": 131072,
+  "rep": 1,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 133241,
+  "prefill": 603.3,
+  "gen_n": 128,
+  "gen": 34.8,
+  "cache_n": 0,
+  "draft": 67,
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 256K",
+  "size": 131072,
+  "rep": 2,
+  "status": "ok"
+ },
+ {
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 256K",
+  "size": 260000,
+  "rep": 1,
+  "status": "error: HTTP Error 400: Bad Request"
+ },
+ {
+  "label": "Qwen3.8-Flash-Next UD-Q4_K_XL (Strata) ctx 256K",
+  "size": 260000,
+  "rep": 2,
+  "status": "error: HTTP Error 400: Bad Request"
+ }
+]
