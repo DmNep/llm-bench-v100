@@ -1,0 +1,108 @@
+{
+ "label": "iq4xs-main-ctx262144",
+ "time": "2026-10-10T12:14:10",
+ "tests": [
+  {
+   "name": "decode_cold",
+   "run": 1,
+   "completion_tokens": 79,
+   "seconds": 3.31,
+   "tok_s": 23.9,
+   "expert_cache_hit_pct": 64.9
+  },
+  {
+   "name": "decode_warm",
+   "run": 2,
+   "completion_tokens": 79,
+   "seconds": 2.15,
+   "tok_s": 36.8,
+   "expert_cache_hit_pct": 82.0
+  },
+  {
+   "name": "decode_warm",
+   "run": 3,
+   "completion_tokens": 79,
+   "seconds": 1.86,
+   "tok_s": 42.5,
+   "expert_cache_hit_pct": 89.9
+  },
+  {
+   "name": "decode_think",
+   "run": 1,
+   "completion_tokens": 400,
+   "seconds": 10.0,
+   "tok_s": 40.0,
+   "expert_cache_hit_pct": 89.8
+  },
+  {
+   "name": "decode_think",
+   "run": 2,
+   "completion_tokens": 400,
+   "seconds": 6.07,
+   "tok_s": 65.9,
+   "expert_cache_hit_pct": 96.0
+  },
+  {
+   "name": "prefill_1K",
+   "prompt_tokens": 1057,
+   "seconds": 3.8,
+   "tok_s": 277.9,
+   "expert_cache_hit_pct": 85.5
+  },
+  {
+   "name": "prefill_8K",
+   "prompt_tokens": 8321,
+   "seconds": 9.14,
+   "tok_s": 910.7,
+   "expert_cache_hit_pct": 93.5
+  },
+  {
+   "name": "prefill_32K",
+   "prompt_tokens": 33400,
+   "seconds": 26.56,
+   "tok_s": 1257.8,
+   "expert_cache_hit_pct": 93.5
+  },
+  {
+   "name": "decode_ctx32k",
+   "prompt_tokens": 33409,
+   "cached_tokens": 32768,
+   "completion_tokens": 2,
+   "seconds": 2.01,
+   "tok_s_total": 1.0
+  },
+  {
+   "name": "image",
+   "run": 1,
+   "prompt_tokens": 229,
+   "completion_tokens": 217,
+   "seconds": 6.85,
+   "answer_start": "CrystalDiskMark 9.0.1 x64, результаты (MB/s):  - **SEQ1M Q8T1**: чтение 513.09 / запись 487.83 - **SEQ1M Q1T1**: чтение 500.25 / запись 482.90 - **RND4K Q32T1**"
+  },
+  {
+   "name": "image",
+   "run": 2,
+   "prompt_tokens": 229,
+   "completion_tokens": 236,
+   "seconds": 4.09,
+   "answer_start": "На картинке — окно бенчмарка **CrystalDiskMark 9.0.1** (тест диска, 1 GiB, MB/s).  Скорости (Read / Write, MB/s): - **SEQ1M Q8T1:** 513.09 / 487.83 - **SEQ1M Q1"
+  }
+ ],
+ "snapshot_start": {
+  "vram_mib": "32079",
+  "gpu_temp": "35",
+  "ram_free_mib": "50394",
+  "ram_used_mib": "43470",
+  "cache_mib": "89382",
+  "strata_rss_mib": "90819"
+ },
+ "config": "{'--resident-budget-gib': '55', '--max-context': '262144', '--kv': 'int8', '--kv-resident': '32768', '--spec': '4', '--vram-reserve-mib': '700'}",
+ "snapshot_end": {
+  "vram_mib": "32239",
+  "gpu_temp": "46",
+  "ram_free_mib": "50470",
+  "ram_used_mib": "43394",
+  "cache_mib": "89364",
+  "strata_rss_mib": "90751"
+ }
+}

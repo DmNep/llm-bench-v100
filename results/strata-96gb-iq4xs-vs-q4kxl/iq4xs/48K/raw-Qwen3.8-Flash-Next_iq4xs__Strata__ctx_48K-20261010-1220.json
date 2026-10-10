@@ -1,0 +1,110 @@
+[
+ {
+  "prompt_tokens": 1093,
+  "prefill": 316.1,
+  "gen_n": 128,
+  "gen": 42.0,
+  "cache_n": 0,
+  "draft": 61,
+  "label": "Qwen3.8-Flash-Next iq4xs (Strata) ctx 48K",
+  "size": 1024,
+  "rep": 1,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 1093,
+  "prefill": 326.1,
+  "gen_n": 128,
+  "gen": 54.7,
+  "cache_n": 0,
+  "draft": 63,
+  "label": "Qwen3.8-Flash-Next iq4xs (Strata) ctx 48K",
+  "size": 1024,
+  "rep": 2,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 1094,
+  "prefill": 324.8,
+  "gen_n": 128,
+  "gen": 59.1,
+  "cache_n": 0,
+  "draft": 55,
+  "label": "Qwen3.8-Flash-Next iq4xs (Strata) ctx 48K",
+  "size": 1024,
+  "rep": 3,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 25024,
+  "prefill": 1245.4,
+  "gen_n": 128,
+  "gen": 59.7,
+  "cache_n": 0,
+  "draft": 58,
+  "label": "Qwen3.8-Flash-Next iq4xs (Strata) ctx 48K",
+  "size": 24576,
+  "rep": 1,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 25026,
+  "prefill": 1272.5,
+  "gen_n": 128,
+  "gen": 66.0,
+  "cache_n": 0,
+  "draft": 71,
+  "label": "Qwen3.8-Flash-Next iq4xs (Strata) ctx 48K",
+  "size": 24576,
+  "rep": 2,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 25026,
+  "prefill": 1270.2,
+  "gen_n": 128,
+  "gen": 59.8,
+  "cache_n": 0,
+  "draft": 50,
+  "label": "Qwen3.8-Flash-Next iq4xs (Strata) ctx 48K",
+  "size": 24576,
+  "rep": 3,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 43747,
+  "prefill": 1298.3,
+  "gen_n": 128,
+  "gen": 60.5,
+  "cache_n": 0,
+  "draft": 55,
+  "label": "Qwen3.8-Flash-Next iq4xs (Strata) ctx 48K",
+  "size": 43000,
+  "rep": 1,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 43747,
+  "prefill": 1304.5,
+  "gen_n": 128,
+  "gen": 62.2,
+  "cache_n": 0,
+  "draft": 59,
+  "label": "Qwen3.8-Flash-Next iq4xs (Strata) ctx 48K",
+  "size": 43000,
+  "rep": 2,
+  "status": "ok"
+ },
+ {
+  "prompt_tokens": 43746,
+  "prefill": 1304.6,
+  "gen_n": 128,
+  "gen": 64.4,
+  "cache_n": 0,
+  "draft": 60,
+  "label": "Qwen3.8-Flash-Next iq4xs (Strata) ctx 48K",
+  "size": 43000,
+  "rep": 3,
+  "status": "ok"
+ }
+]

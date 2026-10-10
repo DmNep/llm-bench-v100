@@ -1,0 +1,4 @@
+label,size,prompt_tokens,prefill_tps,gen_tps,draft_accept_pct,runs_ok,runs
+Qwen3.8-Flash-Next iq4xs (Strata) ctx 48K,1024,1093,324.8,54.7,61,3,3
+Qwen3.8-Flash-Next iq4xs (Strata) ctx 48K,24576,25026,1270.2,59.8,58,3,3
+Qwen3.8-Flash-Next iq4xs (Strata) ctx 48K,43000,43747,1304.5,62.2,59,3,3
