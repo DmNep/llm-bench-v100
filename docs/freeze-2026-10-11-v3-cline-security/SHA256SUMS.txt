@@ -1,0 +1,2 @@
+﻿d323ead6fee44897d747485d0cf212d9fcc858212a356a13a35f7c839c0ed03d  habr-article-final.md
+8f03b818ef264ebf10f7171329b95562e67aee034d7758e7b8665d9d4caea02e  media\upgrade-branches.png

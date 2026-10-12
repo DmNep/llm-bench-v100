@@ -1,0 +1,2 @@
+e6ff1fa2ddca3c51eefcb3ff31fe57a0e7061554ae0120f8391c24588e58ccd6 *habr-article-final.md
+8cd5f74dee0ee579e21291ba7bd1fd4cd50f9e3ce471379a23112d31c7d1a3d0 *media/upgrade-branches.png
