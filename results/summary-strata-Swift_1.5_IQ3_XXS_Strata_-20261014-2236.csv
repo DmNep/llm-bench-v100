@@ -1,0 +1,5 @@
+﻿"model","family","params","quant","ctx","vram_gb","size_gb","target_tokens","prompt_tokens","prefill_tps","gen_tps","draft_accept_pct","runs_ok","runs"
+"Swift 1.5 IQ3_XXS (Strata)","Strata","125B","IQ3_XXS","32768","31.2",,"1024","1092","618.7","76","56","3","3"
+"Swift 1.5 IQ3_XXS (Strata)","Strata","125B","IQ3_XXS","32768","31.2",,"4096","4215","1262.1","75.7","57","3","3"
+"Swift 1.5 IQ3_XXS (Strata)","Strata","125B","IQ3_XXS","32768","31.2",,"16384","16701","1573.3","75.7","59","3","3"
+"Swift 1.5 IQ3_XXS (Strata)","Strata","125B","IQ3_XXS","32768","31.2",,"24576","25026","1642","75.3","58","3","3"
