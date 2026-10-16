@@ -1,0 +1,5 @@
+label,size,prompt_tokens,prefill_tps,gen_tps,draft_accept_pct,runs_ok,runs
+Qwen3.8-Flash-Next orca-q4km (Strata) ctx 256K,1024,1092.0,216.8,30.7,64.5,2,2
+Qwen3.8-Flash-Next orca-q4km (Strata) ctx 256K,24576,25025.0,1066.2,45.9,62.0,2,2
+Qwen3.8-Flash-Next orca-q4km (Strata) ctx 256K,131072,133241.0,1055.5,46.1,61.5,2,2
+Qwen3.8-Flash-Next orca-q4km (Strata) ctx 256K,235000,238847.0,949.5,43.5,51.0,2,2

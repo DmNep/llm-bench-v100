@@ -1,0 +1,115 @@
+{
+ "label": "orca-q4km-main-ctx262144",
+ "time": "2026-10-16T09:57:49",
+ "tests": [
+  {
+   "name": "decode_cold",
+   "run": 1,
+   "completion_tokens": 82,
+   "seconds": 4.65,
+   "tok_s": 17.6,
+   "expert_cache_hit_pct": null
+  },
+  {
+   "name": "decode_warm",
+   "run": 2,
+   "completion_tokens": 79,
+   "seconds": 2.82,
+   "tok_s": 28.0,
+   "expert_cache_hit_pct": null
+  },
+  {
+   "name": "decode_warm",
+   "run": 3,
+   "completion_tokens": 79,
+   "seconds": 2.21,
+   "tok_s": 35.7,
+   "expert_cache_hit_pct": null
+  },
+  {
+   "name": "decode_think",
+   "run": 1,
+   "completion_tokens": 400,
+   "seconds": 14.35,
+   "tok_s": 27.9,
+   "expert_cache_hit_pct": null
+  },
+  {
+   "name": "decode_think",
+   "run": 2,
+   "completion_tokens": 400,
+   "seconds": 7.83,
+   "tok_s": 51.1,
+   "expert_cache_hit_pct": null
+  },
+  {
+   "name": "prefill_1K",
+   "prompt_tokens": 1042,
+   "seconds": 6.45,
+   "tok_s": 161.6,
+   "expert_cache_hit_pct": null
+  },
+  {
+   "name": "prefill_8K",
+   "prompt_tokens": 8296,
+   "seconds": 10.38,
+   "tok_s": 799.0,
+   "expert_cache_hit_pct": null
+  },
+  {
+   "name": "prefill_32K",
+   "prompt_tokens": 33539,
+   "seconds": 30.61,
+   "tok_s": 1095.9,
+   "expert_cache_hit_pct": null
+  },
+  {
+   "name": "prefill_100K",
+   "prompt_tokens": 104040,
+   "seconds": 94.74,
+   "tok_s": 1098.2,
+   "expert_cache_hit_pct": null
+  },
+  {
+   "name": "decode_ctx32k",
+   "prompt_tokens": 33548,
+   "cached_tokens": 0,
+   "completion_tokens": 2,
+   "seconds": 30.04,
+   "tok_s_total": 0.1
+  },
+  {
+   "name": "image",
+   "run": 1,
+   "prompt_tokens": 229,
+   "completion_tokens": 175,
+   "seconds": 7.98,
+   "answer_start": "CrystalDiskMark 9.0.1 x64. Значения (Read / Write, MB/s):  - **SEQ1M Q8T1:** 513.09 / 487.83 - **SEQ1M Q1T1:** 500.25 / 482.90 - **RND4K Q32T1:** 218.87 / 176.9"
+  },
+  {
+   "name": "image",
+   "run": 2,
+   "prompt_tokens": 229,
+   "completion_tokens": 185,
+   "seconds": 4.54,
+   "answer_start": "CrystalDiskMark 9.0.1 x64. Значения (Read / Write, MB/s):  - **SEQ1M Q8T1:** 513.09 / 487.83 - **SEQ1M Q1T1:** 500.25 / 482.90 - **RND4K Q32T1:** 218.87 / 176.9"
+  }
+ ],
+ "snapshot_start": {
+  "vram_mib": "32169",
+  "gpu_temp": "36",
+  "ram_free_mib": "48089",
+  "ram_used_mib": "61903",
+  "cache_mib": "105870",
+  "strata_rss_mib": "66123"
+ },
+ "config": "{'--resident-budget-gib': '55', '--max-context': '262144', '--kv': 'int8', '--kv-resident': '32768', '--spec': '4', '--vram-reserve-mib': '700'}",
+ "snapshot_end": {
+  "vram_mib": "32307",
+  "gpu_temp": "50",
+  "ram_free_mib": "47296",
+  "ram_used_mib": "62696",
+  "cache_mib": "104310",
+  "strata_rss_mib": "89180"
+ }
+}
